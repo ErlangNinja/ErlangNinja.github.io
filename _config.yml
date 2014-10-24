@@ -1,0 +1,6 @@
+safe: true
+lsi: false
+pygments: true
+title: Erlang Ninja
+markdown: kramdown
+exclude: ['Guardfile']
